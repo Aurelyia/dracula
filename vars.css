@@ -40,7 +40,6 @@
 	--deprecated-text-input-border: var(--dracula-tertiary);
 	--radio-group-dot-foreground: var(--dracula-accent);
 	--control-brand-foreground: var(--dracula-accent);
-	--corner-text: 'Dracula';
 
 	/* powercord */
 	--spotify-color: var(--dracula-accent) !important;
